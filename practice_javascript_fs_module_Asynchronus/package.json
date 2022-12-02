@@ -1,0 +1,13 @@
+{
+  "name": "practice_javascript_c11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file_system.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node file_system.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
